@@ -10,7 +10,6 @@ URL: http://www.sci.unich.it/~amato
 License: GPL (>= 2)
 SystemRequirements: A C library with the fesetround/fegetround
         functions.
-OS_type: unix
 Packaged: 2011-08-18 17:07:40 UTC; gianluca
 Repository: CRAN
 Date/Publication: 2011-08-18 19:53:18
